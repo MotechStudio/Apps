@@ -1,7 +1,16 @@
 google.com, pub-8123307217646455, DIRECT, f08c47fec0942fa0
-google.com, pub-8123307217646455, DIRECT, f08c47fec0942fa0
-google.com, pub-8123307217646455, DIRECT, f08c47fec0942fa0
-google.com, pub-8123307217646455, DIRECT, f08c47fec0942fa0
+chocolateplatform.com, 22783, INTERMEDIARY, 49a66ce31a704197
+betweendigital.com, 44977, DIRECT
+lijit.com, 273644, RESELLER, fafdf38b16bf6b2b
+smartadserver.com, 5450, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4395, RESELLER, 060d053dcf45cbf3
+eskimi.com, 2020001193, DIRECT
+pubmatic.com, 160888, RESELLER, 5d62403b186f2ace
+lijit.com, 550620, RESELLER, fafdf38b16bf6b2b
+lijit.com, 550620-eb, DIRECT, fafdf38b16bf6b2b
+pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 vungle.com, 6a2d2979ede581a0424542f2, DIRECT, c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
@@ -364,4 +373,3 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-google.com, pub-8123307217646455, DIRECT, f08c47fec0942fa0
